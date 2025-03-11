@@ -1,0 +1,53 @@
+cria uma pasta no ambiente de trabalho
+
+acessa ela pelo terminal dando cd nome da pasta
+
+depois da esse comando: npm create vite@latest
+
+vai pedir pra confirma com y (yes)
+
+vai da esse codigo todo
+
+> npx
+> create-vite
+
+|
+o  Project name: voce vai escrever o nome do projeto
+|  ambientes
+|
+o  Select a framework: voce vai seleionar a opção react
+|  React
+|
+o  Select a variant: selecionar opção de linguagem/atalho
+|  JavaScript
+|
+o  Scaffolding project in C:\Users\47819795808\Desktop\nicolly\ambientes...
+|
+—  Done. Now run:
+
+  cd ambientes
+  npm install
+  npm run dev
+
+npm notice
+npm notice New major version of npm available! 10.9.2 -> 11.2.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.2.0
+npm notice To update run: npm install -g npm@11.2.0
+npm notice
+
+para confirmar de o comando dir
+
+após isso acesse o ambinte 
+  cd ambientes 
+
+depois instala o npm
+
+  npm install
+
+
+em seguida de npm run dev
+
+
+
+
+
